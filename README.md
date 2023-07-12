@@ -16,3 +16,7 @@ Make sure you have the following requirements before running the code:
 
    ````shell
    git clone https://github.com/cris18274/Facial-recognition-model.git
+
+## License
+
+This project is licensed under the [MIT](LICENSE) license.
